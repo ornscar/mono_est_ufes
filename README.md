@@ -1,1 +1,6 @@
-# mono_sobrev_reg_quantilica
+# Monografia "Modelos de regressão quantílica com fração de cura: uma aplicação aos dados de COVID-19 grave na população materna"
+
+### Resumo
+
+Neste artigo, abordamos modelos paramétricos de regressão quantílica para dados de sobrevivência com possibilidade de cura em que as distribuições são convenientemente reparametrizadas em termos do $q$-ésimo quantil e ligada a covariáveis por intermédio de uma função logarítmica. Por meio de um estudo de simulação de Monte Carlo sob uma abordagem bayesiana, comparamos o modelo que considera a distribuição Gompertz generalizada em uma versão defeituosa (por isso, modelo defeituoso) com um modelo de mistura padrão cuja distribuição do tempo de vida dos suscetíveis é a Gompertz generalizada em sua forma pura. Ao fazer uso dessa metodologia, esperamos avaliar se os parâmetros do modelo defeituoso ficam comprometidos ao estimar, simultaneamente, a fração de cura e os parâmetros do tempo de vida dos indivíduos que estão sujeitos à falha. Além disso, os modelos defeituoso e de mistura foram aplicados aos dados públicos de gestantes e puérperas de 10 a 55 anos internadas com SRAG por COVID-19 que estão disponíveis no portal openDataSUS, do Ministério da Saúde. Portanto, este estudo ainda possibilitou analisar os efeitos de variáveis de caracterização, sintoma e comorbidade na fração de cura e em diferentes quantis dos tempos de sobrevivência dessas mulheres que estavam vivendo a gestação, parto ou puerpério durante a pandemia de COVID-19 no Brasil.
+
