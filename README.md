@@ -10,6 +10,8 @@ Neste artigo, abordamos modelos paramétricos de regressão quantílica para dad
 
 Ajuste dos modelos de mistura padrão e defeituosos - `sadasdaaplicao`
 
+Apresentação - `apresentacao`
+
 ### Software
 
 R, versão 4.2.2, sob a IDE RStudio
