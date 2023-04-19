@@ -1,6 +1,6 @@
-# Monografia "Modelos de regressão quantílica com fração de cura: uma aplicação aos dados de COVID-19 grave na população materna"
+# Modelos de regressão quantílica com fração de cura: uma aplicação aos dados de COVID-19 grave na população materna
 
-Recebi o título de Bacharel em Estatística pela Universidade Federal do Espírito Santo (UFES) após defender a monografia "Modelos de regressão quantílica com fração de cura: uma aplicação aos dados de COVID-19 grave na população materna", sob orientação da Profa. Dra. Agatha Sacramento Rodrigues e coorientação do Prof. Dr. Patrick Borges. A banca examinadora foi composta pela Profa. Dra. Rossana Pulcineli Vieira Francisco (FMUSP) e pelo Dr. Vinicius Fernando Calsavara (Cedars-Sinai Medical Center - Los Angeles).
+Monografia "Modelos de regressão quantílica com fração de cura: uma aplicação aos dados de COVID-19 grave na população materna", sob orientação da Profa. Dra. Agatha Sacramento Rodrigues e coorientação do Prof. Dr. Patrick Borges. A banca examinadora foi composta pela Profa. Dra. Rossana Pulcineli Vieira Francisco (FMUSP) e pelo Dr. Vinicius Fernando Calsavara (Cedars-Sinai Medical Center - Los Angeles).
 
 ### Resumo
 
