@@ -8,9 +8,9 @@ Neste artigo, abordamos modelos paramétricos de regressão quantílica para dad
 
 ### Script
 
-Ajuste dos modelos de mistura padrão e defeituosos - `sadasdaaplicao`
+Ajuste dos modelos de mistura padrão e defeituosos - `/sadasdaaplicao`
 
-Apresentação - `apresentacao`
+Apresentação - `/apresentacao`
 
 ### Software
 
