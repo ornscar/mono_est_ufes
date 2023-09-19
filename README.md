@@ -1,6 +1,6 @@
 # Modelos de regressão quantílica com fração de cura: uma aplicação aos dados de COVID-19 grave na população materna
 
-Monografia "Modelos de regressão quantílica com fração de cura: uma aplicação aos dados de COVID-19 grave na população materna", sob orientação da Profa. Dra. Agatha Sacramento Rodrigues e coorientação do Prof. Dr. Patrick Borges. A banca examinadora foi composta pela Profa. Dra. Rossana Pulcineli Vieira Francisco (FMUSP) e pelo Dr. Vinicius Fernando Calsavara (Cedars-Sinai Medical Center - Los Angeles).
+Monografia "Modelos de regressão quantílica com fração de cura: uma aplicação aos dados de COVID-19 grave na população materna", orientada pela Profa. Dra. Agatha Sacramento Rodrigues e coorientada pelo Prof. Dr. Patrick Borges. A banca examinadora foi composta pela Profa. Dra. Rossana Pulcineli Vieira Francisco (FMUSP) e pelo Dr. Vinicius Fernando Calsavara (Cedars-Sinai Medical Center - Los Angeles).
 
 ### Resumo
 
